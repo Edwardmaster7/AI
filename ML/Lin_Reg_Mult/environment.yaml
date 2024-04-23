@@ -1,0 +1,9 @@
+name: LIN_REG_MULT
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.5
+  - anaconda
+  - pip
+  - pip:
+    - -r file:/Users/eduardobatista/Documents/Documents - Mac/VSCode/AI_course/ML/Lin_Reg_Mult/requirements.txt

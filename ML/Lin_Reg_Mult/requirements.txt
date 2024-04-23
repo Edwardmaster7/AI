@@ -1,0 +1,11 @@
+# --find-links https://pypi.org
+# use the following command: conda install pip --file requirements.txt
+scikit-learn
+scipy
+pandas
+matplotlib
+seaborn
+ipykernel
+gradio
+uvicorn
+fastapi
